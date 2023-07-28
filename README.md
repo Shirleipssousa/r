@@ -1,2 +1,2 @@
-# r
+# RELOGIO DIGITAL PRIMAVERA
 relogio
